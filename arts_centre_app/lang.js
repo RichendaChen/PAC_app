@@ -20,7 +20,7 @@ export const english = {
 
 export const welsh = {
 
-                    months : ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'], 
+                    months : ['Ionawr', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'], 
                     
                     tags: {
                             cinema: 'Cinema', 
